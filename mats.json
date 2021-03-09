@@ -1,0 +1,28 @@
+{
+    "wood": {
+      "oak": 1.98,
+      "hickory": 0.74,
+      "walnut": 2.65,
+      "holly": 11.33,
+      "ziricote": 15
+    },
+    "metal": {
+      "copper": 3.5,
+      "nickel": 8.44,
+      "tin": 10.26,
+      "brass": 1.9,
+      "aluminum": 0.5,
+      "lead": 0.35,
+      "steel": 0.1,
+      "iron": 0.05,
+      "silver": 249.5,
+      "gold": 21120,
+      "platinum": 18720,
+      "zinc": 1.28,
+      "titanium": 27.5,
+      "tungsten": 3.25
+    },
+    "other": {
+      "ivory": 1250
+    }
+}
