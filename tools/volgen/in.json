@@ -1,0 +1,35 @@
+{
+    "coins": {
+      "large": {
+        "height": 3,
+        "radius": 22.5,
+        "name": "Large Coin"
+      },
+      "standard": {
+        "height": 1.5,
+        "radius": 10,
+        "name": "Standard Coin"
+      },
+      "small": {
+        "height": 1,
+        "radius": 7.5,
+        "name": "Small Coin"
+      },
+      "units": "mm"
+    },
+    "ingots": {
+      "standard": {
+        "height": 8,
+        "width": 53,
+        "length": 118,
+        "name": "Standard Ingot"
+      },
+      "large": {
+        "height": 30,
+        "width": 80,
+        "length": 120,
+        "name": "Large Ingot"
+      },
+      "units": "mm"
+    }
+  }
